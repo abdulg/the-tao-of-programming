@@ -23,7 +23,7 @@
  The Tao gave birth to machine language. Machine language gave birth to
  the assembler.
 
- The assembler gave birth to the compiler. Now their are ten thousand
+ The assembler gave birth to the compiler. Now there are ten thousand
  languages.
 
  Each language has its purpose, however humble. Each language expresses
@@ -38,7 +38,7 @@
   Therefore Space and Time are Yin and Yang of programming.
 
   Programmers that do not comprehend the Tao are always running out of
-  time and space for there programs. Programmers that comprehend the
+  time and space for their programs. Programmers that comprehend the
   Tao always have enough time and space to accomplish their goals.
 
   How could it be otherwise?
