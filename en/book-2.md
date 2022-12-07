@@ -13,7 +13,7 @@
 
   Aware, like a fox crossing the water. Alert, like a general on the
   battlefield. Kind, like a hostess greeting her guests. Simple, like
-  uncarved blocks of wood. Opaque , like black pools in darkened caves.
+  uncarved blocks of wood. Opaque, like black pools in darkened caves.
 
   Who can tell the secrets of their hearts and minds?
 
@@ -35,7 +35,7 @@
   conference and then returned to report to his manager, saying: "What
   sort of programmers work for other companies? They behaved badly and
   were unconcerned with appearances.  There hair was long and unkept
-  and their clothes were wrinkled and old. They crashed out hospitality
+  and their clothes were wrinkled and old. They crashed our hospitality
   suite and they made rude noises during my presentation."
 
   The manager said: "I should have never sent you to the conference.
