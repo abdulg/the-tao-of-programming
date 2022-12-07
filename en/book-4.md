@@ -10,7 +10,7 @@
 
   A program should be light and agile, its subroutines connected like a
   string of pearls. The spirit and intent of the program should be
-  retained throughout. There should be neither too little or too much,
+  retained throughout. There should be neither too little nor too much,
   neither needless loops nor useless variables, neither lack of
   structure nor overwhelming rigidity.
 
